@@ -8,22 +8,20 @@
                     "title": "Client-side Web Development"
                 },
                 "responsibilities": [
-                    "Languages: Javascript (ES5, ES6, ES2017), Coffeescript, Typescript, ProcessingJS",
-                    "Frontend frameworks: AngularJS, Ember, React",
+                    "Languages: Typescript, Javascript, Coffeescript",
+                    "Frontend frameworks: React, AngularJS, Ember",
                     "Frontend technologies: D3, HTML5, CSS3, JQuery, Bootstrap, Lodash/Underscore",
-                    "Testing: Nightwatch, Protractor, PhantomJS, QUnit, Karma, Chai+Mocha, Istanbul (coverage)",
-                    "Ops, build: Grunt, Gulp, Babel, Browserify"
+                    "Testing: Cypress, Jest, Nightwatch, Protractor, PhantomJS, QUnit, Karma, Chai+Mocha",
+                    "Ops, build: Webpack, Rollup, Nx (monorepo management), Grunt, Gulp, Babel, Browserify"
                 ]
             },{
                 "head": {
                     "title": "General Software Development"
                 },
                 "responsibilities": [
-                    "Languages: Ruby, Javascript; previously Java, C++, and Prolog",
+                    "Languages: Java, Ruby, Javascript; previously C++, and Prolog",
                     "Databases: SQL, PostgreSQL, REDIS; a bit of Hadoop/HDFS, MariaDB",
-                    "Backend web frameworks: Ruby on Rails, Phoenix",
-                    "Source control: GitHub, Gitlab, Mercurial",
-                    "Multithreading: BoostThreads (C++) with mutexes"
+                    "Backend web frameworks: Ruby on Rails, a bit of Spring Boot (Java)"
                 ]
             }]
         },
@@ -31,6 +29,28 @@
             "id": "experience",
             "title": "Work Experience",
             "elements": [{
+                "head": {
+                    "title": "Everbridge (acquired xMatters)",
+                    "location": "Vancouver, BC",
+                    "role": "Staff Engineer"
+                },
+                "time": {
+                    "start": "May 2021",
+                    "end": "Now"
+                },
+                "responsibilities": []
+            },{
+                "head": {
+                    "title": "xMatters",
+                    "location": "Vancouver, BC",
+                    "role": "Engineering Manager"
+                },
+                "time": {
+                    "start": "Oct 2017",
+                    "end": "May 2021"
+                },
+                "responsibilities": []
+            },{
                 "head": {
                     "title": "Hazel (spin-off from Rise)",
                     "location": "Vancouver, BC",
