@@ -30,13 +30,24 @@
             "title": "Work Experience",
             "elements": [{
                 "head": {
+                    "title": "Atono",
+                    "location": "Vancouver, BC",
+                    "role": "Senior Software Engineer"
+                },
+                "time": {
+                    "start": "December 2023",
+                    "end": "Now"
+                },
+                "responsibilities": []
+            },{
+                "head": {
                     "title": "Everbridge (acquired xMatters)",
                     "location": "Vancouver, BC",
                     "role": "Staff Engineer"
                 },
                 "time": {
                     "start": "May 2021",
-                    "end": "Now"
+                    "end": "November 2023"
                 },
                 "responsibilities": []
             },{
